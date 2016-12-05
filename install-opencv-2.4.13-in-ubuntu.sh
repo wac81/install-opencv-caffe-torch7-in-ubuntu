@@ -36,7 +36,7 @@ cd opencv
 wget "https://github.com/Itseez/opencv/archive/2.4.13.zip"
 unzip opencv-2.4.13.zip
 
-cd opencv
+cd opencv-2.4.13
 mkdir build
 cd build
 cmake -DCMAKE_BUILD_TYPE=RELEASE \
